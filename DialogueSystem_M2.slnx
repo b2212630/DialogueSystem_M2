@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="uLipSync.Samples.VRM.Runtime.csproj" />
+  <Project Path="uLipSync.Samples.VRM.Editor.csproj" />
+</Solution>
