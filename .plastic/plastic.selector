@@ -1,0 +1,4 @@
+repository "DialogueSystem/DialogueSystem@15669014228228@cloud"
+  path "/"
+    br "/main"
+    co "/main"
